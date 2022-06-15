@@ -1,0 +1,16 @@
+.carouselmargin
+{
+margin-top: 2px;
+}
+
+
+.carousel-inner > .carousel-item >img
+{
+height: 470px;
+}
+
+
+.cardmodify
+{
+    padding:.4cm;
+}
